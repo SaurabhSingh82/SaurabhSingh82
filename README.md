@@ -1,14 +1,13 @@
-## Hi there 👋
-# Hi 👋, I'm Saurabh Singh
+# Hi 👋, I'm Saurabh Singh  
 
-## 🚀 Full Stack Developer | UI/UX Designer
+## 🚀 Full-Stack Developer | Backend & Cloud Enthusiast  
 
-- 🔭 I’m currently working on Laravel projects  
-- 🌱 I’m learning Backend & DSA  
-- 💬 Ask me about C++, JavaScript, Laravel  
-- 📫 How to reach me: saurabhsinghrs8@gmail.com  
-
----
+- 💼 Building scalable web applications using Laravel, React, and Node.js  
+- ☁️ Exploring cloud technologies with AWS and modern deployment practices  
+- 🧠 Strong foundation in Data Structures & Algorithms (C++)  
+- ⚡ Passionate about performance optimization and clean code architecture  
+- 🤝 Open to collaboration on innovative and impactful projects  
+- 📫 Contact: saurabhsinghrs8@gmail.com  
 
 ## 🌐 Connect with me:
 
@@ -17,11 +16,43 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Tech Stack:
 
+### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+
+---
+
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/FramerMotion-black?logo=framer)
+![GSAP](https://img.shields.io/badge/GSAP-green?logo=greensock)
+
+---
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-black?logo=express)
 ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+
+---
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
+![Canva](https://img.shields.io/badge/Canva-blue?logo=canva)
 
 ---
 
@@ -35,17 +66,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSingh82&layout=compact&theme=radical)
 
-<!--
-**SaurabhSingh82/SaurabhSingh82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact:
+I love building real-world projects & learning new technologies 🚀
