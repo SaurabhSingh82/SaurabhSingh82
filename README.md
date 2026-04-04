@@ -55,18 +55,5 @@
 ![Canva](https://img.shields.io/badge/Canva-blue?logo=canva)
 
 ---
-
-## 📊 GitHub Stats:
-
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSingh82&show_icons=true&theme=radical)
-
----
-
-## 🔥 Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSingh82&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact:
 I love building real-world projects & learning new technologies 🚀
