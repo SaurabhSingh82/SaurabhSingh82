@@ -2,17 +2,14 @@
 
 ## 🚀 Full-Stack Developer | Backend & Cloud Enthusiast  
 
-- 💼 Building scalable web applications using Laravel, React, and Node.js  
-- ☁️ Exploring cloud technologies with AWS and modern deployment practices  
-- 🧠 Strong foundation in Data Structures & Algorithms (C++)  
-- ⚡ Passionate about performance optimization and clean code architecture  
+- 💼 Building scalable web applications using React, and Node.js  
+- ☁️ Exploring cloud technologies with AWS and modern deployment practices   
 - 🤝 Open to collaboration on innovative and impactful projects  
 - 📫 Contact: saurabhsinghrs8@gmail.com  
 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?logo=instagram)](https://instagram.com/)
 
 ---
 
@@ -20,10 +17,7 @@
 
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
-
 ---
 
 ### 🌐 Frontend Development
@@ -39,7 +33,6 @@
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-black?logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
 
 ---
 
